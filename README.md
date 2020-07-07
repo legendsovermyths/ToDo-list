@@ -1,6 +1,6 @@
 # todolist
 
-A new Flutter application.
+A simple task manager app.
 
 ## Getting Started
 
